@@ -25,7 +25,7 @@ Get started by exploring [Datasets on IUDX](https://catalogue.iudx.org.in/).
 
 Explore different [IUDX Data models](https://voc.iudx.org.in/)
 
-Find the [IUDX Docs](https://docs.iudx.org.in)
+Get started by building apps using IUDX platform or provide data to IUDX. [Docs](https://docs.iudx.org.in)
 
 Join the [IUDX Forum](https://forum.iudx.org.in)
 
