@@ -21,6 +21,10 @@ IUDX is completely open source, based on an underlying framework of open standar
 ### Community
 IUDX is an open source project that anyone in the community can use, improve, and enjoy. We'd love you to join us! Here's a few ways to find out what's happening and get involved:
 
+Get started by exploring [Datasets on IUDX](https://catalogue.iudx.org.in/).
+
+Explore different [IUDX Data models](https://voc.iudx.org.in/)
+
 Find the [IUDX Docs](https://docs.iudx.org.in)
 
 Join the [IUDX Forum](https://forum.iudx.org.in)
