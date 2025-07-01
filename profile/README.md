@@ -29,10 +29,11 @@ We have multiple Digital Public Infrastructures (DPI) powerd by CDPG's IUDX Stac
 
 Here are the most popular ones
 
-[India Urban Data Exchange](https://iudx.org.in/)
-[Telangana - Agriculture Data Exchange](https://dataexplorer.ts.adex.org.in/)
-[Geospatial Data Sharing Interface](https://catalogue.geospatial.org.in/)
-[Telangana Data Exchange](https://tgdex.telangana.gov.in/)
+- [India Urban Data Exchange](https://iudx.org.in/) 
+- [Telangana - Agriculture Data Exchange](https://dataexplorer.ts.adex.org.in/)
+- [Advanced Data Analytics for Public Health Action and Research Venture](https://adarv.in/)
+- [Geospatial Data Sharing Interface](https://catalogue.geospatial.org.in/)
+- [Telangana Data Exchange](https://tgdex.telangana.gov.in/)
 
 and many more....
 ### Work with us
