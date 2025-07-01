@@ -1,12 +1,15 @@
 ## Hi, this is IUDX 👋
 
-[![Our](https://img.shields.io/static/v1?label=Our&message=Website&color=blue)](https://iudx.org.in/)
-[![Sign-up](https://img.shields.io/static/v1?label=Sign-up&message=for%20news&color=red)](https://iudx.org.in/subscribe-newsletter/)
+[![Our](https://img.shields.io/static/v1?label=Our&message=Website&color=blue)](https://dataforpublicgood.org.in/technology/)
 
-India Urban Data Exchange (IUDX) is a transformative initiative of the Ministry of Housing and Urban Affairs, Government of India to provide a data exchange platform to Indian cities. IUDX serves as a seamless interface for data providers and data users, including ULBs, to share, request, and access datasets related to cities, urban governance, and urban service delivery. The platform has been developed by the Smart Cities Mission and is implemented by the Indian Institute of Science (IISc), Bengaluru.
+Our platform has been built through rigorous research, real-world validation, and a deep commitment to open standards. Drawing inspiration from leading global initiatives while tailoring it to India’s unique needs, the CDPG’s Intelligent Universal Data Exchange (IUDX) Platform delivers a trusted digital infrastructure for seamless and secure data sharing.
+
+By connecting data silos within cities, academic institutions, government bodies, and enterprises, our platform enables the creation of dynamic data ecosystems that catalyse innovation and improve public services.
 
 ### IUDX 
 IUDX is completely open source, based on an underlying framework of open standard APIs, data models, and the security, privacy and accounting mechanisms that will facilitate its easy adoption across the digital ecosystem.
+
+The IUDX platform employs a cloud-native, microservices-based architecture, separating responsibilities across the Control Plane and Data Plane for maximum security and flexibility. This modular architecture ensures that data providers and consumers interact securely, efficiently, and in accordance with policy and consent.
 
 <!--
 
@@ -21,24 +24,17 @@ IUDX is completely open source, based on an underlying framework of open standar
 ### Community
 IUDX is an open source project that anyone in the community can use, improve, and enjoy. We'd love you to join us! Here's a few ways to find out what's happening and get involved:
 
-Get started by exploring [Datasets on IUDX](https://catalogue.iudx.org.in/).
-
-Explore different [IUDX Data models](https://voc.iudx.org.in/)
-
-Get started by building apps using IUDX platform or provide data to IUDX. [Docs](https://docs.iudx.org.in)
-
-Join the [IUDX Forum](https://forum.iudx.org.in)
-
-Follow [IUDX on Linkedin](https://www.linkedin.com/company/iudx/mycompany/)
-
-Follow [IUDX on Twitter](https://twitter.com/IndiaIudx)
-
-Subscribe to [the newsletter](https://iudx.org.in/subscribe-newsletter/)
-
-Subscribe to the [IUDX on Youtube](https://www.youtube.com/channel/UCK9oI1VtbKnEe7cJIt_eUFA)
-
 You’ve already found us on Github!
+We have multiple Digital Public Infrastructures (DPI) powerd by CDPG's IUDX Stack. 
 
+Here are the most popular ones
+
+[India Urban Data Exchange](https://iudx.org.in/)
+[Telangana - Agriculture Data Exchange](https://dataexplorer.ts.adex.org.in/)
+[Geospatial Data Sharing Interface](https://catalogue.geospatial.org.in/)
+[Telangana Data Exchange](https://tgdex.telangana.gov.in/)
+
+and many more....
 ### Work with us
 
 If you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://iudx.org.in/careers/).
