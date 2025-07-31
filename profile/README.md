@@ -24,8 +24,7 @@ The IUDX platform employs a cloud-native, microservices-based architecture, sepa
 ### Community
 IUDX is an open source project that anyone in the community can use, improve, and enjoy. We'd love you to join us! Here's a few ways to find out what's happening and get involved:
 
-You’ve already found us on Github!
-We have multiple Digital Public Infrastructures (DPI) powerd by CDPG's IUDX Stack. 
+We have multiple Digital Public Infrastructures (DPIs) powerd by CDPG's IUDX Stack. 
 
 Here are the most popular ones
 
@@ -36,6 +35,7 @@ Here are the most popular ones
 - [Telangana Data Exchange](https://tgdex.telangana.gov.in/)
 
 and many more....
+
 ### Work with us
 
-If you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://iudx.org.in/careers/).
+If you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection. If you like the experience and think you might want to do this full-time, we are [always hiring](https://dataforpublicgood.org.in/careers/).
